@@ -5,6 +5,7 @@
 A Flappy Bird Clone made using python-pygame
 
 ## Preview
-!<img src="./imgs/Gif.gif" height=350><br>
+
+<img src="./imgs/Gif.gif" height=350><br>
 
 
