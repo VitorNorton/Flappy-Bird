@@ -1,4 +1,4 @@
-<img align="center" width="240px" src="https://flappy-bird.co/cache/data/image/options/logo-m200x52.webp">
+<img align="center" width="240px" src="https://flappybird.org/wp-content/uploads/2024/08/rlo-1.png">
 
 ## ⚙ About the project
 
